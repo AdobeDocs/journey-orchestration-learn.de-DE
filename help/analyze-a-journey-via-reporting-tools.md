@@ -4,12 +4,12 @@ description: In diesem Lernprogramm wird erläutert, wie Sie zu Berichte für Ih
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
-thumbnail: 29321
+thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: 1b651f0ee1d65f5b057e7bdc5f2f07efa7c45e4a
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 2%
@@ -29,5 +29,5 @@ Im folgenden Video wird das Vorgehen erläutert:
 
 ## Zusätzliche Ressourcen
 
-* [Hilfecenter](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)für Reiseorchestrierung:
-   * [Informationen zu Berichten zur Reiseorganisation](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+   * [Info zu Journey Orchestrationen-Berichten](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
