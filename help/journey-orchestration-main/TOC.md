@@ -1,6 +1,6 @@
 ---
 product: journey orchestration
-user-guide-title: Übungen zur Reisebegleitung
+user-guide-title: Journey Orchestrationen-Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
@@ -9,22 +9,23 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Hilfe
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: d122f07d053b387cb7b194ce158ba5f5717a5377
+source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 8%
+source-wordcount: '76'
+ht-degree: 7%
 
 ---
 
 
-# Übungen zur Reisebegleitung {#tutorials}
+# Journey Orchestrationen-Tutorials {#tutorials}
 
 + [Übersicht](/help/overview.md)
-+ [Einführung in die Reiseorganisation](/help/understanding-journey-orchestration.md)
++ [Erläuterungen zur Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [Konfigurieren von Streaming-Ereignissen](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [Datenquellen konfigurieren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Aktionen konfigurieren](/help/configuring-journey-orchestration/configure-actions.md)
 + [Eine Reise erstellen](/help/create-a-journey.md)
 + [Validieren und Veröffentlichen einer Reise](/help/validate-and-publish-a-journey.md)
 + [Analysieren einer Reise mit Berichte-Tools](/help/analyze-a-journey-via-reporting-tools.md)
-+ [Hilfe zur Journey Orchestrierung](/help/how-to-find-help-with-journey-orchestration.md)
++ [Berichte-Reise-Ereignisse zur Adobe Experience Platform](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [Hilfe zur Journey Orchestration](/help/how-to-find-help-with-journey-orchestration.md)
