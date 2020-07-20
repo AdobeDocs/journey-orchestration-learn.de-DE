@@ -9,7 +9,7 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: df5c132a8e66a9e9d2c8e7a2cf299a6a6a3527b7
+source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 5%
@@ -20,7 +20,7 @@ ht-degree: 5%
 # Ereignisse für Berichte zur [!UICONTROL Adobe Experience Platform ]
 
 [!UICONTROL Journey Orchestration] sendet Fahrtleistungsdaten automatisch an die [!UICONTROL Adobe Experience Platform] , damit sie zu Analysen mit anderen Daten kombiniert werden können.
-Im folgenden Video wird erläutert, welche [!UICONTROL Ereignis] von Reiseschritten und welche [!UICONTROL Datenschritte] automatisch auf der [!UICONTROL Experience Platform erstellt werden ]und wie diese zu untersuchen sind.
+Im folgenden Video wird erläutert, welche [!UICONTROL Ereignis] von Reiseschritten und welche [!UICONTROL Datenschritte] automatisch auf der [!UICONTROL Experience Platform] erstellt werden und wie diese zu untersuchen sind.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
