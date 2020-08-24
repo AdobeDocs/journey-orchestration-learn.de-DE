@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie eine Reise mit dem Adobe Journey Orchestrierung
-description: Im folgenden Video wird erläutert, wie eine neue Reise erstellt, Beginn mit einem Ereignis erstellt, Orchestersteuerungen zur Steuerung des Reiseflusses und -zeitverlaufs verwendet und Aktionen eingesetzt werden, um an den Punkten der Reise teilzunehmen.
+title: Eine Journey mit Adobe Journey Orchestration erstellen
+description: Im folgenden Video wird erläutert, wie Sie eine neue Journey erstellen, mit einem Ereignis beginnen, Orchestrierungen zur Steuerung von Fluss und zeitlichem Verlauf einer Journey einsetzen und Aktionen nutzen, um an verschiedenen Punkten der Journey für Interaktion zu sorgen.
 feature: Journey Orchestration
 topics: Create a journey
 kt: 2789
@@ -8,26 +8,26 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Eine Reise erstellen
+# Eine Journey erstellen
 
-Im folgenden Video wird das Vorgehen erläutert:
+Im folgenden Video werden diese Themen erläutert:
 
-* Neue Reise und Beginn mit einem Ereignis erstellen
-* Steuerung des [!UICONTROL Ablaufs und der Zeitplanung einer Reise mithilfe] der Steuerelemente für die Orchestrierung
-* Mit Aktionen können Sie an den Punkten der Reise teilnehmen.
+* Eine neue Journey erstellen und mit einem Ereignis beginnen
+* [!UICONTROL Orchestrierungs]-Steuerelemente zur Steuerung von Fluss und zeitlichem Verlauf einer Journey nutzen
+* Mit Aktionen an verschiedenen Punkten in der Journey für Interaktion sorgen
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
-* [Hilfecenter](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)für Reiseorchestrierung:
-   * [Erstellen einer Journey ](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/about-journey-building/journey.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
+   * [Erstellen einer Journey ](https://docs.adobe.com/content/help/de-DE/journeys/using/building-journeys/about-journey-building/journey.html)
