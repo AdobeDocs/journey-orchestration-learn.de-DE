@@ -1,6 +1,6 @@
 ---
-title: Analysieren einer Reise mit Berichte-Tools
-description: In diesem Lernprogramm wird erläutert, wie Sie zu Berichte für Ihre Reise navigieren, wie Sie Datumsbereiche für Ihren Bericht anpassen und wie Sie eine Vorlage für Berichte für die zukünftige Verwendung speichern können.
+title: Eine Journey mit Reporting-Tools analysieren
+description: 'In diesem Tutorial erfahren Sie, wie Sie zum Reporting für Ihre Journey navigieren, Datumsbereiche für Ihren Bericht ändern und eine Reporting-Vorlage zur zukünftigen Verwendung speichern können. '
 feature: Journey Orchestration
 topics: Introduction
 kt: 2777
@@ -8,26 +8,26 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Analysieren einer Reise mit Berichte-Tools
+# Eine Journey mit Reporting-Tools analysieren
 
-Im folgenden Video wird das Vorgehen erläutert:
+Im folgenden Video werden diese Themen erläutert:
 
-* Navigieren Sie zu Berichte für Ihre Reise
+* Zum Reporting für Ihre Journey navigieren
 * Datumsbereiche für Ihren Bericht anpassen
-* Speichern einer Berichte-Vorlage für die zukünftige Verwendung
+* Eine Reporting-Vorlage zur zukünftigen Verwendung speichern
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
-* [Info zu Journey Orchestrationen-Berichten](https://docs.adobe.com/content/help/en/journeys/using/journey-reports/about-journey-reports.html)
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
+* [Über Journey Orchestration-Berichte](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-reports/about-journey-reports.html)
