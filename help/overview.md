@@ -3,7 +3,7 @@ title: Journey Orchestration-Tutorials – Übersicht
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## Neue Funktionen
 
-* **[Journey-Schrittereignisse an Adobe Experience Platform melden](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[Journey-Schrittereignisse an Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *Erfahren Sie, welche Ereignis für Reiseschritte und welche Datenschritte automatisch bei der Experience Platform erstellt werden und wie Sie diese untersuchen.*
