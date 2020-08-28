@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '247'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[Journey-Schrittereignisse an Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *Erfahren Sie, welche Ereignis für Reiseschritte und welche Datenschritte automatisch bei der Experience Platform erstellt werden und wie Sie diese untersuchen.*
-* **[Segmentqualifizierungs-Ereignisse verwenden](/help/using-segment-qualification-events.md)**
+   *Erfahren Sie, was Journey-Schrittereignisse sind und welche Datenschritte automatisch in Experience Platform erstellt werden und wie Sie diese untersuchen.*
+* **[Segmentqualifikationsereignisse verwenden](/help/using-segment-qualification-events.md)**
 
    <br>
-   *In diesem Video erfahren Sie, wie Sie eine Reise mit einem Ereignis zur Segmentqualifizierung als Einstiegs- oder Ausstiegspunkt erstellen.*
+   *In diesem Video erfahren Sie, wie Sie eine Journey mit einem Segmentqualifikationsereignis als Einstiegs- oder Ausstiegspunkt erstellen.*
 
 ## Mitarbeiterauswahl
 
