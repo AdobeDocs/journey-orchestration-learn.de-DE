@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ Im folgenden Video werden diese Themen erläutert:
 * [!UICONTROL Orchestrierungs]-Steuerelemente zur Steuerung von Fluss und zeitlichem Verlauf einer Journey nutzen
 * Mit Aktionen an verschiedenen Punkten in der Journey für Interaktion sorgen
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## Zusätzliche Ressourcen
 
