@@ -1,35 +1,37 @@
 ---
 cloud: experience-cloud
 product: journey orchestration
+solution: Journey Orchestration
+type: Tutorial
 mini-toc-levels: 3
 git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.de-DE
 index: false
 translation-type: tm+mt
-source-git-commit: b6e7f9cde1b427d687f39b21b4fe810d31fb38b8
+source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 96%
 
 ---
 
 
 # Metadaten für den internen Gebrauch
 
-Die Datei &quot;metadata.md&quot;enthält Metadaten auf Repo-Ebene, die an die Dateien &quot;TOC.md&quot;des Benutzerhandbuchs im Bericht übergeben werden. Wenn Sie den Inhalt von &quot;metadata.md&quot;für ein Benutzerhandbuch ändern möchten, führen Sie dies in einer beliebigen Datei &quot;TOC.md&quot;durch.
+Die Datei „metadata.md“ enthält Metadaten auf der Repository-Ebene, die über die „TOC.md“-Dateien des Benutzerhandbuchs im Repository übergeben werden. Wenn Sie den „metadata.md“-Inhalt für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen „TOC.md“-Datei.
 
-| metadata | was es tut |
+| metadata | Was sie tun |
 |--- |--- |
 | solution-title | Wird in der Artikelüberschrift als Link verwendet |
-| solution-ub-url | Öffnet Helpx-Hub-Seite |
+| solution-hub-url | Öffnet die Helpx-Hub-Seite |
 | solution-icon | Zeigt das Lösungssymbol neben dem Lösungstitel an. Noch nicht implementiert |
-| getting-started-url | Link zur Hilfeseite für den Einstieg |
-| tutorials-url | Link zu Videolehrgängen - entweder Helpx-Tutorials oder KT-Tutorials |
-| mini-toc-levels | Legt die Anzahl der Überschriftenebenen fest, die in der rechten Leiste angezeigt werden. default ist 2 |
-| git-repo | Gibt den Speicherort des Master-Repo für die interne Verwendung an |
+| getting-started-url | Link zur Hilfeseite für erste Schritte |
+| tutorials-url | Link zu Video-Tutorials – entweder Helpx-Tutorials oder KT-Tutorials |
+| mini-toc-levels | Legt die Anzahl der Überschriftenebenen fest, die in der rechten Leiste angezeigt werden. Standardwert ist 2 |
+| git-repo | Gibt den Speicherort des übergeordneten Repositorys zur internen Verwendung an |
 
-In der Datei &quot;TOC.md&quot;
+In Datei „TOC.md“
 
-| metadata | was es tut |
+| metadata | Was sie tun |
 |--- |--- |
 | user-guide-title | Wird in der Artikelüberschrift als Link verwendet |
-| user-guide-url | Öffnet Helpx-Hub-Seite |
+| user-guide-url | Öffnet die Helpx-Hub-Seite |
