@@ -2,11 +2,11 @@
 title: Journey Orchestration-Tutorials – Übersicht
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
-translation-type: ht
-source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
-workflow-type: ht
-source-wordcount: '247'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 93%
 
 ---
 
@@ -17,14 +17,10 @@ ht-degree: 100%
 
 ## Neue Funktionen
 
-* **[Journey-Schrittereignisse an Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[Springen zu einer anderen Journey](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Erfahren Sie, was Journey-Schrittereignisse sind und welche Datenschritte automatisch in Experience Platform erstellt werden und wie Sie diese untersuchen.*
-* **[Segmentqualifikationsereignisse verwenden](/help/using-segment-qualification-events.md)**
-
-   <br>
-   *In diesem Video erfahren Sie, wie Sie eine Journey mit einem Segmentqualifikationsereignis als Einstiegs- oder Ausstiegspunkt erstellen.*
+   *Erfahren Sie, wie Sie Einzelpersonen von einer Journey zur nächsten verschieben.*
 
 ## Mitarbeiterauswahl
 
