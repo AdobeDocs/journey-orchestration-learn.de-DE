@@ -1,6 +1,6 @@
 ---
-title: Validieren und Veröffentlichen einer Reise
-description: Mithilfe von Test-Profilen können Sie Ihre Reise vor der Veröffentlichung testen. Auf diese Weise können Sie analysieren, wie sich Kontakte in der Journey bewegen, und Fehler vor der Veröffentlichung beheben.
+title: Validieren und Veröffentlichen einer Journey
+description: Mithilfe von Test-Profilen können Sie Ihre Journey vor der Veröffentlichung testen. Auf diese Weise können Sie analysieren, wie sich Kontakte in der Journey bewegen, und Fehler vor der Veröffentlichung beheben.
 feature: Journey Orchestration
 topics: Test and publish a journey
 kt: 2778
@@ -12,24 +12,24 @@ translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 18%
+ht-degree: 37%
 
 ---
 
 
-# Validieren und Veröffentlichen einer Reise
+# Eine Journey validieren und veröffentlichen
 
-Mithilfe von Test-Profilen können Sie Ihre Reise vor der Veröffentlichung testen. Auf diese Weise können Sie analysieren, wie Einzelpersonen durch die Reise fließen, und eine Fehlerbehebung vor der Veröffentlichung durchführen.
+Mithilfe von Test-Profilen können Sie Ihre Journey vor der Veröffentlichung testen. Auf diese Weise können Sie analysieren, wie Einzelpersonen durch die Journey fließen, und eine Fehlerbehebung vor der Veröffentlichung durchführen.
 
-Im folgenden Video wird das Vorgehen erläutert:
+Im folgenden Video werden diese Themen erläutert:
 
-* Aktivieren und Verwenden des **[!UICONTROL Testmodus]** zur Überprüfung einer Reise
-* Veröffentlichen einer Reise und Verwalten ihres Status
+* Aktivieren und verwenden Sie **[!UICONTROL Testmodus]**, um eine Journey zu validieren
+* Journey veröffentlichen und ihren Status verwalten
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
 ## Zusätzliche Ressourcen
 
-* [Hilfecenter](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)für Reiseorchestrierung:
+* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
    * [Testen der Journey](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
    * [Veröffentlichen der Journey](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
