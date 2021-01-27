@@ -19,12 +19,12 @@ ht-degree: 34%
 
 # Streaming-Ereignisse konfigurieren
 
-[!UICONTROL Journey Orchestration] hört auf Ereignis und organisiert die besten Aktionen auf der Kundenreise auf Grundlage dieser Ereignis. Ein Ereignis kann Folgendes betreffen:
+[!UICONTROL Journey ] Orchestra überwacht Ereignisse und organisiert die besten Aktionen innerhalb der Journey, basierend auf diesen Ereignissen. Ein Ereignis kann Folgendes betreffen:
 
 * die direkten Aktionen einer Person (z. B. die Käufer ein Produkt gekauft, einen Store besucht oder einen Online-Warenkorb abgebrochen) oder
 * Etwas, das passiert ist, ist mit dem Individuum verbunden (z.B. wenn sie 10.000 Treuepunkte erreicht haben)
 
-[!UICONTROL Journey Orchestration] -Ereignis sind [!UICONTROL XDM-Erlebnis-Ereignis] , die über [!UICONTROL Streaming-Erfassung]an das Adobe Experience Platform gesendet werden.
+[!UICONTROL Journey ] Orchestrationevents sind  [!UICONTROL XDM-] Erlebnisereignisse, die per  [!UICONTROL Streaming an die Adobe Experience Platform gesendet werden].
 
 >[!NOTE]
 >
@@ -45,8 +45,8 @@ Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit de
 
 Im folgenden Video wird das Vorgehen erläutert:
 
-* XDM-Schema und -Datensätze für [!UICONTROL Journey Orchestrationen] -Ereignis konfigurieren
-* Definieren eines Ereignisses in der [!UICONTROL Journey Orchestration]
+* XDM-Schema und -Datensätze für [!UICONTROL Journey Orchestration]-Ereignis konfigurieren
+* Definieren eines Ereignisses in [!UICONTROL Journey Orchestration]
 * Quellsysteme zum Streamen von Ereignissen konfigurieren
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
