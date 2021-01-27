@@ -8,9 +8,9 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 [!UICONTROL Journey Orchestration] sendet automatisch Journey-Leistungsdaten an [!UICONTROL Adobe Experience Platform], damit sie zu Analysezwecken mit anderen Daten kombiniert werden können.
 Im folgenden Video wird erklärt, was [!UICONTROL Journey-Schrittereignisse] sind und welche [!UICONTROL Datenschritte] automatisch in [!UICONTROL Experience Platform] erstellt werden und wie Sie diese untersuchen.
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
 ## Zusätzliche Ressourcen
 
