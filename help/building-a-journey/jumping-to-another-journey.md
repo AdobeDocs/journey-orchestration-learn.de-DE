@@ -1,6 +1,6 @@
 ---
-title: Springen zu einer anderen Journey
-description: 'Erfahren Sie, wie Sie Einzelpersonen von einer Journey zur nächsten verschieben. '
+title: Zu einer anderen Journey springen
+description: 'Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen. '
 feature: Journey Orchestration
 topics: activity
 kt: 6695
@@ -9,27 +9,27 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# Springen zu einer anderen Journey
+# Zu einer anderen Journey springen
 
-Erfahren Sie, wie Sie Einzelpersonen von einer Journey zur nächsten verschieben.
+Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.
 
-Mit der Aktivität &quot;Schnellaktion&quot;können Sie:
+Die Sprungaktionsaktivität ermöglicht Ihnen Folgendes:
 
-* Vereinfachen Sie das Design sehr komplexer Journey, indem Sie sie in mehrere aufteilen
-* Erstellen von Journey basierend auf gemeinsamen und wiederverwendbaren Journey-Mustern
+* Vereinfachung der Gestaltung sehr komplexer Journeys durch Aufteilung in mehrere Journeys
+* Erstellung von Journeys anhand häufiger und wiederverwendbarer Journey-Muster
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
-* [Wechseln zwischen Journey (Produktdokumentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=en#building-journeys)
+* [Springen zwischen Journeys (Produktdokumentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=de#building-journeys)
 
