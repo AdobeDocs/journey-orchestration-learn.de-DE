@@ -9,11 +9,11 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Hilfe
 getting-started-url: https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 92%
 + [Segmentqualifikationsereignisse verwenden](/help/using-segment-qualification-events.md)
 + [Datenquellen konfigurieren](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [Aktionen konfigurieren](/help/configuring-journey-orchestration/configure-actions.md)
-+ Erstellen einer Journey {#building-a-journey}
-   + [Erstellen einer Journey ](/help/building-a-journey/creating-a-journey.md)
-   + [Springen zu einer anderen Journey](/help/building-a-journey/jumping-to-another-journey.md)
++ Journey erstellen {#building-a-journey}
+   + [Eine Journey erstellen](/help/building-a-journey/creating-a-journey.md)
+   + [Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)
 + [Eine Journey validieren und veröffentlichen](/help/validate-and-publish-a-journey.md)
 + [Eine Journey mit Reporting-Tools analysieren](/help/analyze-a-journey-via-reporting-tools.md)
 + [Journey-Schrittereignisse an Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)
