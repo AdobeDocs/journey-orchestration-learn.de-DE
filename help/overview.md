@@ -2,25 +2,25 @@
 title: Journey Orchestration-Tutorials – Übersicht
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # Übersicht
 
-[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungs-Service. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
+[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 
 ## Neue Funktionen
 
-* **[Springen zu einer anderen Journey](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *Erfahren Sie, wie Sie Einzelpersonen von einer Journey zur nächsten verschieben.*
+   *Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.*
 
 ## Mitarbeiterauswahl
 
@@ -71,5 +71,5 @@ ht-degree: 93%
 ## Zusätzliche Ressourcen
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html)
 
