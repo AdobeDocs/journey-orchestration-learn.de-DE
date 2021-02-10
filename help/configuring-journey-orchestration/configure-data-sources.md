@@ -1,6 +1,6 @@
 ---
-title: Data Sources für die Journey Orchestration der Adobe konfigurieren
-description: Mit der Journey Orchestration können Sie eine Verbindung zum Adobe Experience Platform oder anderen Drittanbietersystemen herstellen, um weitere Informationen abzurufen. In diesem Lernprogramm wird beschrieben, wie Sie die Datenquelle der Experience Platform konfigurieren, eine externe Datenquelle konfigurieren, Daten in einer Journey suchen und verwenden.
+title: Datenquellen für Adobe Journey Orchestration konfigurieren
+description: Mit Journey Orchestration können Sie eine Verbindung zur Adobe Experience Platform oder anderen Systemen von Drittanbietern herstellen, um zusätzliche Informationen abzurufen. In diesem Tutorial wird beschrieben, wie Sie eine Experience Platform-Datenquelle und eine externe Datenquelle konfigurieren, Daten suchen und in einer Journey verwenden.
 feature: Journey Orchestration
 topics: Data Sources
 kt: 2774
@@ -8,29 +8,29 @@ thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 
 # Datenquellen konfigurieren
 
-[!UICONTROL Mit Journey ] Orchestrationes können Sie eine Verbindung zu Adobe Experience Platform oder anderen Datenquellen von Drittanbietern herstellen, um zusätzliche Informationen abzurufen, die in einer Journey für Folgendes verwendet werden können:
+Mit [!UICONTROL Journey Orchestration] können Sie eine Verbindung zur Adobe Experience Platform oder anderen Systemen von Drittanbietern herstellen, um zusätzliche Informationen abzurufen, die in einer Journey für Folgendes verwendet werden können:
 
-* Festlegung der Bedingungen
+* Definition von Bedingungen
 * Parameter und Personalisierungsdaten in Aktionen
-* [!UICONTROL Benutzerdefinierte ] Zeitdefinition
+* [!UICONTROL Benutzerdefinierte Timer]-Definition
 * Benutzerdefinierte Zeitzonendefinition
 
-Diese Konfiguration ist nicht erforderlich, wenn Ihr Journey nur lokale Daten aus einer Ereignis-Nutzlast nutzt.
+Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten aus einer Ereignis-Payload nutzen.
 
-Im folgenden Video wird das Vorgehen erläutert: Konfigurieren Sie eine Experience Platform-Datenquelle und eine externe Datenquelle sowie das Auffinden und Verwenden von Daten in einer Journey.
+Im folgenden Tutorial wird beschrieben, wie Sie eine Experience Platform-Datenquelle und eine externe Datenquelle konfigurieren sowie Daten suchen und in einer Journey verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&captions=ger)
 
 ## Zusätzliche Ressourcen
 
