@@ -8,10 +8,10 @@ thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '140'
+workflow-type: tm+mt
+source-wordcount: '142'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Jeder Dienst eines beliebigen Anbieters, der über eine REST-API mit einer JSON-
 
 Im folgenden Video wird erläutert, wie eine [!UICONTROL Aktion] für [!UICONTROL Journey Orchestration] konfiguriert und in einer Journey verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
 ## Zusätzliche Ressourcen
 
