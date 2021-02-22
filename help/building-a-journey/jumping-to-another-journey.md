@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
+workflow-type: tm+mt
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ Die Sprungaktionsaktivität ermöglicht Ihnen Folgendes:
 * Vereinfachung der Gestaltung sehr komplexer Journeys durch Aufteilung in mehrere Journeys
 * Erstellung von Journeys anhand häufiger und wiederverwendbarer Journey-Muster
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## Zusätzliche Ressourcen
 
