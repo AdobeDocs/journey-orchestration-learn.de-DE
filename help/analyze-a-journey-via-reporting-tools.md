@@ -8,10 +8,10 @@ thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
-workflow-type: ht
-source-wordcount: '94'
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
@@ -25,7 +25,7 @@ Im folgenden Video werden diese Themen erläutert:
 * Datumsbereiche für Ihren Bericht anpassen
 * Eine Reporting-Vorlage zur zukünftigen Verwendung speichern
 
->[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
 ## Zusätzliche Ressourcen
 
