@@ -8,10 +8,10 @@ thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
-source-wordcount: '165'
+workflow-type: tm+mt
+source-wordcount: '167'
 ht-degree: 100%
 
 ---
@@ -30,7 +30,7 @@ Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten 
 
 Im folgenden Tutorial wird beschrieben, wie Sie eine Experience Platform-Datenquelle und eine externe Datenquelle konfigurieren sowie Daten suchen und in einer Journey verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
 ## Zusätzliche Ressourcen
 
