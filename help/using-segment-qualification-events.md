@@ -8,10 +8,10 @@ thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
-source-wordcount: '139'
+workflow-type: tm+mt
+source-wordcount: '141'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ Beispiele für Anwendungsfälle sind:
 
 In diesem Video erhalten Sie eine kurze Einführung in die Konfiguration von Segmenten und die Konfiguration eines Segmentqualifikationsereignisses in einer Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
 ## Zusätzliche Ressourcen
 
