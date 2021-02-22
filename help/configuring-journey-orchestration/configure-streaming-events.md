@@ -8,10 +8,10 @@ thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
-workflow-type: ht
-source-wordcount: '268'
+workflow-type: tm+mt
+source-wordcount: '270'
 ht-degree: 100%
 
 ---
@@ -34,7 +34,8 @@ ht-degree: 100%
 >* [Erstellen von XDM-Schemata für Erlebnisereignisse](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Streaming-Datenaufnahme](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
+>
+Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
 >
 >* [Adobe Experience Platform Mobile SDK – Launch](https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/de-DE/places/using/home.html)
@@ -48,7 +49,7 @@ Im folgenden Video werden diese Themen erläutert:
 * Definieren eines Ereignisses in [!UICONTROL Journey Orchestration]
 * Konfigurieren von Quellsystemen zum Streamen von Ereignissen
 
->[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
 ## Zusätzliche Ressourcen
 
