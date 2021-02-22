@@ -8,10 +8,10 @@ thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
-workflow-type: ht
-source-wordcount: '124'
+workflow-type: tm+mt
+source-wordcount: '126'
 ht-degree: 100%
 
 ---
@@ -26,7 +26,7 @@ Im folgenden Video werden diese Themen erläutert:
 * Aktivieren und Verwenden des **[!UICONTROL Testmodus]**, um eine Journey zu validieren
 * Veröffentlichen einer Journey und Verwalten ihres Status
 
->[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
 ## Zusätzliche Ressourcen
 
