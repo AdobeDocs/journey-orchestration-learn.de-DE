@@ -34,7 +34,8 @@ ht-degree: 100%
 >* [Erstellen von XDM-Schemata für Erlebnisereignisse](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Streaming-Datenaufnahme](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
+>
+Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
 >
 >* [Adobe Experience Platform Mobile SDK – Launch](https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/de-DE/places/using/home.html)
