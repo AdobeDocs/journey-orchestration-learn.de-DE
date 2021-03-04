@@ -1,18 +1,19 @@
 ---
 title: Eine Journey mit Reporting-Tools analysieren
-description: 'In diesem Tutorial erfahren Sie, wie Sie zum Reporting für Ihre Journey navigieren, Datumsbereiche für Ihren Bericht ändern und eine Reporting-Vorlage zur zukünftigen Verwendung speichern können. '
-feature: Journey Orchestration
+description: '"Erfahren Sie, wie Sie zum Reporting für Ihre Journey navigieren, Datumsbereiche für Ihren Bericht auswählen und eine Reporting-Vorlage zur zukünftigen Verwendung speichern können."'
+feature: 'Berichte '
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
+role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: eff94dd57d933976c0fd0a303696a54048e4ddc0
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
