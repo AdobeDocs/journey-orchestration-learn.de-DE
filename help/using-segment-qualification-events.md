@@ -1,18 +1,19 @@
 ---
 title: Segmentqualifikationsereignisse verwenden
-description: In diesem Video erhalten Sie eine kurze Einführung in die Konfiguration von Segmenten und die Konfiguration eines Segmentqualifikationsereignisses in einer Journey.
-feature: Journey Orchestration
+description: Erfahren Sie, wo Sie Segmente konfigurieren und wie Sie ein Segmentqualifizierungs-Ereignis in einer Journey konfigurieren.
+feature: Segmente, Ereignis
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
+role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 84%
 
 ---
 
