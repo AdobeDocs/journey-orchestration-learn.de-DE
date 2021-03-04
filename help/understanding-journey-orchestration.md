@@ -1,18 +1,19 @@
 ---
 title: Informationen zu Journey Orchestration
-description: Machen Sie sich mit dem Konzept von Journey Orchestration, den möglichen Anwendungsfällen sowie den Schlüsselelementen von Journey Orchestration vertraut.
-feature: Journey Orchestration
+description: '"Machen Sie sich mit dem Konzept von Journey Orchestration, den möglichen Anwendungsfällen sowie den Schlüsselelementen von Journey Orchestration vertraut."'
+feature: 'Übersicht  '
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
+role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 99%
 
 ---
 
