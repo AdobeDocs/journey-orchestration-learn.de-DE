@@ -1,18 +1,19 @@
 ---
 title: 'Journey-Schrittereignisse an Adobe Experience Platform melden '
-description: Im folgenden Video wird erklärt, was Journey-Schrittereignisse sind und welche Datenschritte automatisch in Experience Platform erstellt werden und wie Sie diese untersuchen.
-feature: Journey Orchestration
+description: Verstehen Sie, was Journey step-Ereignis sind und welche Datenschritte sind und wie Sie sie untersuchen.
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
+role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 82%
 
 ---
 
