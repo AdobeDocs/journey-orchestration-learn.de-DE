@@ -1,18 +1,19 @@
 ---
 title: So erhalten Sie Hilfe zu Journey Orchestration
-description: In diesem Video erfahren Sie, wie Sie einfach Hilfe erhalten können
-feature: Journey Orchestration
+description: Einblick, wie Sie Hilfe leicht finden können
+feature: 'Übersicht  '
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
+role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
