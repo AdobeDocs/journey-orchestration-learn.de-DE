@@ -11,10 +11,10 @@ getting-started-title: Hilfe
 getting-started-url: https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html
 level: Anfänger
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '101'
+ht-degree: 96%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + Journey erstellen {#building-a-journey}
    + [Eine Journey erstellen](/help/building-a-journey/creating-a-journey.md)
    + [Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)
+   + [Profil-Aktion aktualisieren](/help/building-a-journey/update-profile-action.md)
 + [Eine Journey validieren und veröffentlichen](/help/validate-and-publish-a-journey.md)
 + [Eine Journey mit Reporting-Tools analysieren](/help/analyze-a-journey-via-reporting-tools.md)
 + [Journey-Schrittereignisse an Adobe Experience Platform melden](/help/reporting-step-events-to-adobe-experience-platform.md)
