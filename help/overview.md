@@ -4,10 +4,10 @@ description: Mit Journey Orchestration können Sie Anwendungsfälle für die Ech
 products: Journey orchestration
 role: Geschäftspraktiker, Administrator
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 98%
+source-wordcount: '211'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## Neue Funktionen
 
+* **[Profil-Aktion aktualisieren](/help/building-a-journey/update-profile-action.md)**
 * **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.*
 
