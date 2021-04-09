@@ -2,15 +2,15 @@
 title: Journey Orchestration-Tutorials – Übersicht
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
-role: Geschäftspraktiker, Administrator
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+role: Business Practitioner, Administrator
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '211'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # Übersicht
 
@@ -18,7 +18,7 @@ ht-degree: 97%
 
 ## Neue Funktionen
 
-* **[Profil-Aktion aktualisieren](/help/building-a-journey/update-profile-action.md)**
+* **[Aktion „Profil aktualisieren“](/help/building-a-journey/update-profile-action.md)**
 * **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.*
@@ -73,4 +73,3 @@ ht-degree: 97%
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html)
-
