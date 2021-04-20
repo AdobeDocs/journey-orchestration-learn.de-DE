@@ -9,7 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/de-DE/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: Hilfe
 getting-started-url: https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html
-level: Anfänger
+level: Beginner
 translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: ht

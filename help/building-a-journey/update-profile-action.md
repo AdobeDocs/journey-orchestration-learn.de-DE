@@ -1,7 +1,7 @@
 ---
 title: Aktion „Profil aktualisieren“
 description: Erfahren Sie, wie Sie ein vorhandenes Adobe Experience Platform-Profil mit Informationen aktualisieren, die von einem Ereignis, einer Datenquelle oder einem bestimmten Wert stammen.
-feature: Aktionen
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
 role: Business Practitioner

@@ -1,7 +1,7 @@
 ---
 title: Informationen zu Journey Orchestration
 description: „Machen Sie sich mit dem Konzept von Journey Orchestration, den möglichen Anwendungsfällen sowie den Schlüsselelementen von Journey Orchestration vertraut.“
-feature: Übersicht
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
