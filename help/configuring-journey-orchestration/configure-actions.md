@@ -1,22 +1,21 @@
 ---
 title: Aktionen für Adobe Journey Orchestration konfigurieren
-description: Erfahren Sie, wie Sie eine Aktion für die Journey Orchestration konfigurieren und wie Sie sie in einer Journey verwenden.
-feature: Actions
+description: Erfahren Sie, wie Sie eine Aktion für die Journey Orchestration konfigurieren und in einer Journey verwenden.
+feature: Aktionen
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '139'
 ht-degree: 87%
 
 ---
-
 
 # [!UICONTROL Benutzerdefinierte Aktionen] konfigurieren
 
