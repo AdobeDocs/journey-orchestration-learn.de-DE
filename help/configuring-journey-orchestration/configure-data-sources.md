@@ -1,24 +1,23 @@
 ---
 title: Datenquellen für Adobe Journey Orchestration konfigurieren
-description: '"Erfahren Sie, wie Sie die Datenquelle der Experience Platform konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden."'
-feature: Data Sources
+description: '"Erfahren Sie, wie Sie die Experience Platform-Datenquelle konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden."'
+feature: Datenquellen
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 85%
 
 ---
 
-
-# Datenquellen konfigurieren
+# Konfigurieren von Datenquellen
 
 Mit [!UICONTROL Journey Orchestration] können Sie eine Verbindung zur Adobe Experience Platform oder anderen Systemen von Drittanbietern herstellen, um zusätzliche Informationen abzurufen, die in einer Journey für Folgendes verwendet werden können:
 
