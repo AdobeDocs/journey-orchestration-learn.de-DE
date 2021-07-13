@@ -1,6 +1,6 @@
 ---
-title: 'Journey-Schrittereignisse an Adobe Experience Platform melden '
-description: Verstehen Sie, was Journey step-Ereignis sind und welche Datenschritte sind und wie Sie sie untersuchen.
+title: 'Meldung von Ereignissen bezüglich Journey-Schritten bei Adobe Experience Platform '
+description: Erfahren Sie, was Journey-Schrittereignisse sind und welche Datenschritte sind und wie Sie sie untersuchen.
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -8,15 +8,14 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 1ce7909e-173b-46f4-b20c-e6b5bfcb9d2c
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 82%
+source-wordcount: '107'
+ht-degree: 85%
 
 ---
-
 
 # Schrittereignisse an [!UICONTROL Adobe Experience Platform] melden
 
