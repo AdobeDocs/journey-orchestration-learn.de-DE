@@ -1,18 +1,17 @@
 ---
 title: Informationen zu Journey Orchestration
-description: „Machen Sie sich mit dem Konzept von Journey Orchestration, den möglichen Anwendungsfällen sowie den Schlüsselelementen von Journey Orchestration vertraut.“
-feature: Overview
+description: '"Machen Sie sich mit dem Konzept der Journey Orchestration, den Anwendungsfällen, die diese unterstützt, und den Schlüsselelementen ihrer Funktionsweise vertraut."'
+feature: Übersicht
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: Business Practitioner, Administrator
-translation-type: ht
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: ht
-source-wordcount: '346'
+role: User, Admin
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '343'
 ht-degree: 100%
 
 ---
@@ -56,6 +55,6 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html)
-* [Hilfe erhalten zu Journey Orchestration](/help/understanding-journey-orchestration.md)
+* [So erhalten Sie Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – Launch](https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/de-DE/places/using/home.html)
