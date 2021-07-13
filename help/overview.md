@@ -2,12 +2,11 @@
 title: Journey Orchestration-Tutorials – Übersicht
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '211'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
@@ -18,7 +17,7 @@ ht-degree: 100%
 
 ## Neue Funktionen
 
-* **[Aktion „Profil aktualisieren“](/help/building-a-journey/update-profile-action.md)**
+* **[Aktion des Aktualisierens von Profilen](/help/building-a-journey/update-profile-action.md)**
 * **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.*
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Machen Sie sich mit dem Konzept von Journey Orchestration, den möglichen Anwendungsfällen sowie den Schlüsselelementen der Funktionsweise von Journey Orchestration vertraut.</em>
+    <em>Machen Sie sich mit dem Konzept der Journey Orchestration, den Anwendungsfällen, die diese unterstützt, und den Schlüsselelementen ihrer Funktionsweise vertraut.</em>
     <p>
   </td>
   <td>
