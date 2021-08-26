@@ -1,7 +1,7 @@
 ---
 title: Informationen zu Journey Orchestration
 description: '"Machen Sie sich mit dem Konzept der Journey Orchestration, den Anwendungsfällen, die diese unterstützt, und den Schlüsselelementen ihrer Funktionsweise vertraut."'
-feature: Übersicht
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
@@ -9,10 +9,10 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 100%
+source-wordcount: '340'
+ht-degree: 66%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 100%
 
 ## Einführung in [!UICONTROL Journey Orchestration]
 
-Mit [!UICONTROL Journey Orchestration] können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
+[!UICONTROL Mit Journey ] Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey mithilfe von Kontextdaten erstellen, die in Ereignissen oder Datenquellen gespeichert sind.
 
-[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Er bietet ein intelligentes und offenes Ökosystem, um alle relevanten Live-Daten über skalierbare, auf Ereignissen basierende Interaktionen kanalübergreifend zu aktivieren – vom Marketing über den Betrieb bis hin zum Service. [!UICONTROL Journey Orchestration] kann sämtliche Daten aus Adobe Experience Platform und beliebigen externen Versandsystemen nutzen, um ansprechende Erlebnisse zu erzeugen und bereitzustellen.
+[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Er bietet ein intelligentes und offenes Ökosystem, um alle relevanten Live-Daten über skalierbare, auf Ereignissen basierende Interaktionen kanalübergreifend zu aktivieren – vom Marketing über den Betrieb bis hin zum Service. [!UICONTROL Journey ] Orchestration kann beliebige Daten aus Adobe Experience Platform und beliebigen externen Versandsystemen verwenden, um ansprechende Erlebnisse zu erstellen und bereitzustellen.
 
 Das folgende Video bietet eine Einführung in diese Themen:
 
@@ -38,12 +38,12 @@ Das folgende Video bietet eine Einführung in diese Themen:
 Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sind:
 
 1. [Konfigurieren von Streaming-Ereignissen](/help/configuring-journey-orchestration/configure-streaming-events.md) – Diese Konfiguration ist obligatorisch, da [!UICONTROL Journey Orchestration] auf Ereignisse lauscht.
-1. [Konfigurieren von Datenquellen](/help/configuring-journey-orchestration/configure-data-sources.md) – Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten aus einer Ereignis-Payload nutzen.
+1. [Data Sources konfigurieren](/help/configuring-journey-orchestration/configure-data-sources.md)  - Diese Konfiguration ist nicht erforderlich, wenn Ihre Journey nur lokale Daten aus einer Ereignis-Payload verwenden.
 1. [Konfigurieren von benutzerdefinierten Aktionen](/help/configuring-journey-orchestration/configure-actions.md) – Erforderlich, wenn Sie einen Dienst eines Drittanbieters verwenden möchten, der über eine [!DNL REST API] mit JSON-formatierter Payload aufgerufen werden kann.
 
 >[!NOTE]
 >
->Diese Konfigurationsschritte erfordern technische Kenntnisse. Sie müssen mit dem [Experience Data Model (XDM)](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) und dem [Erstellen von XDM-Erlebnisereignis-Schemas](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html) vertraut sein.
+>Diese Konfigurationsschritte erfordern technische Kenntnisse. Sie müssen mit dem [Experience-Datenmodell (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=en) und [wie Sie XDM-Erlebnisereignisschemata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=en) erstellen, vertraut sein.
 
 ## So erstellen, veröffentlichen und analysieren Sie eine Journey
 
@@ -53,8 +53,8 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 ## Zusätzliche Ressourcen
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html)
+* [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de)
+* [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
 * [So erhalten Sie Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – Launch](https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
-* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/de-DE/places/using/home.html)
+* [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=en)
+* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)

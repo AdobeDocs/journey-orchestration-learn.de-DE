@@ -1,7 +1,7 @@
 ---
 title: Segmentqualifikationsereignisse verwenden
 description: Erfahren Sie, wo Sie Segmente konfigurieren und wie Sie ein Segmentqualifikationsereignis in einer Journey konfigurieren.
-feature: Segmente, Ereignisse
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # Segmentqualifikationsereignisse verwenden
 
-Mit einem Segmentqualifikationsereignis kann Ihre Journey die Ein- und Austritte von Profilen in Adobe Experience Platform-Segmenten überwachen, um Kontakte dazu zu bringen, in eine Journey einzutreten oder in einer Journey fortzufahren.
+Mit einem Segmentqualifikationsereignis kann Ihre Journey die Ein- und Austritte von Profilen in Adobe Experience Platform-Segmenten überwachen. Dieser Ereignistyp wird verwendet, um Einzelpersonen dazu zu bringen, in eine Journey einzutreten oder fortzufahren.
 
 Beispiele für Anwendungsfälle sind:
 
@@ -34,4 +34,4 @@ In diesem Video erhalten Sie eine kurze Einführung in die Konfiguration von Seg
 
 Dokumentation:
 
-* [Segmentqualifikationsereignisse](https://docs.adobe.com/content/help/de-DE/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)
+* [Segmentqualifizierungsereignisse](https://docs.adobe.com/content/help/de-DE/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html)

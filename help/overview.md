@@ -1,19 +1,19 @@
 ---
 title: Journey Orchestration-Tutorials – Übersicht
-description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
+description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey mithilfe von Kontextdaten erstellen, die in Ereignissen oder Datenquellen gespeichert sind.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 63%
 
 ---
 
 # Übersicht
 
-[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey erstellen, indem Sie kontextbezogene Daten nutzen, die in Ereignissen oder Datenquellen gespeichert sind.
+[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey mithilfe von Kontextdaten erstellen, die in Ereignissen oder Datenquellen gespeichert sind.
 
 ## Neue Funktionen
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie eine neue Journey erstellen, mit einem Ereignis beginnen, Orchestrierungen zur Steuerung von Fluss und zeitlichem Verlauf einer Journey einsetzen sowie Aktionen nutzen, um an verschiedenen Punkten der Journey für Interaktion zu sorgen.</em>
+    <em>Erfahren Sie, wie Sie eine Journey erstellen, mit einem Ereignis beginnen, Orchestrierungen zur Steuerung von Fluss und Zeitpunkt einer Journey verwenden und Aktionen verwenden, um an verschiedenen Punkten im Journey zu interagieren.</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## Zusätzliche Ressourcen
 
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform-Tutorials](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/overview.html)
+* [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de)
+* [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
