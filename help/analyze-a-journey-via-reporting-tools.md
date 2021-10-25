@@ -11,9 +11,9 @@ activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Im folgenden Video werden diese Themen erläutert:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29321?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de):
-* [Über Journey Orchestration-Berichte](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=en)
+* [Über Journey Orchestration-Berichte](https://experienceleague.adobe.com/docs/journeys/using/journey-reports/about-journey-reports.html?lang=de)
