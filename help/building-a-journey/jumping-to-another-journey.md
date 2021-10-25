@@ -1,6 +1,6 @@
 ---
 title: Zu einer anderen Journey springen
-description: 'Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen. '
+description: 'Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen. '
 feature: Journeys
 topics: activity
 kt: 6695
@@ -12,15 +12,15 @@ team: PM
 role: User, Admin
 exl-id: 185c5c83-5444-4592-b113-732ee561f55a
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '80'
+workflow-type: ht
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 # Zu einer anderen Journey springen
 
-Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.
+Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen.
 
 Die Sprungaktionsaktivität ermöglicht Ihnen Folgendes:
 
@@ -29,6 +29,6 @@ Die Sprungaktionsaktivität ermöglicht Ihnen Folgendes:
 
 >[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Springen zwischen Journeys (Produktdokumentation)](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/action-activities/jump.html?lang=de#building-journeys)
