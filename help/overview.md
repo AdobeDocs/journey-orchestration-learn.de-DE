@@ -1,26 +1,26 @@
 ---
 title: Journey Orchestration-Tutorials – Übersicht
-description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey mithilfe von Kontextdaten erstellen, die in Ereignissen oder Datenquellen gespeichert sind.
+description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '207'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # Übersicht
 
-[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung der Customer Journey mithilfe von Kontextdaten erstellen, die in Ereignissen oder Datenquellen gespeichert sind.
+[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 
 ## Neue Funktionen
 
-* **[Aktion des Aktualisierens von Profilen](/help/building-a-journey/update-profile-action.md)**
+* **[Aktion zum Aktualisieren von Profilen](/help/building-a-journey/update-profile-action.md)**
 * **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
-   *Erfahren Sie, wie Sie Kontakte von einer Journey zur nächsten bewegen.*
+   *Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen.*
 
 ## Mitarbeiterauswahl
 
@@ -36,7 +36,7 @@ ht-degree: 63%
     </a>
     </div>
     <p>
-    <em>Machen Sie sich mit dem Konzept der Journey Orchestration, den Anwendungsfällen, die diese unterstützt, und den Schlüsselelementen ihrer Funktionsweise vertraut.</em>
+    <em>Machen Sie sich mit dem Konzept, den unterstützten Anwendungsfällen und der Funktionsweise von Journey Orchestration vertraut.</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ ht-degree: 63%
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie eine Journey erstellen, mit einem Ereignis beginnen, Orchestrierungen zur Steuerung von Fluss und Zeitpunkt einer Journey verwenden und Aktionen verwenden, um an verschiedenen Punkten im Journey zu interagieren.</em>
+    <em>Erfahren Sie, wie Sie eine neue Journey erstellen, mit einem Ereignis beginnen, Orchestrierungen zur Steuerung des Flusses und des zeitlichen Verlaufs einer Journey einsetzen sowie Aktionen nutzen, um an verschiedenen Punkten der Journey für Interaktion zu sorgen.</em>
     <p>
   </td>
   <td>
@@ -68,7 +68,7 @@ ht-degree: 63%
 </tr>
 </table>
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de)
-* [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
