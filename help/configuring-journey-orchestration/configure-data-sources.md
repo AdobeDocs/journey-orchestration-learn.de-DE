@@ -1,7 +1,7 @@
 ---
 title: Datenquellen für Adobe Journey Orchestration konfigurieren
 description: '"Erfahren Sie, wie Sie die Experience Platform-Datenquelle konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden."'
-feature: Datenquellen
+feature: Data Sources
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
@@ -12,7 +12,7 @@ role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 85%
 
 ---
@@ -32,7 +32,7 @@ Im folgenden Tutorial wird beschrieben, wie Sie eine Experience Platform-Datenqu
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
    * [Informationen zu Datenquellen](https://docs.adobe.com/content/help/de-DE/journeys/using/data-source-journeys/about-data-sources.html)

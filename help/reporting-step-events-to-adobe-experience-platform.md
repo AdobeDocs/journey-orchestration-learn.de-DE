@@ -20,11 +20,11 @@ ht-degree: 55%
 # Schrittereignisse an [!UICONTROL Adobe Experience Platform] melden
 
 [!UICONTROL Journey Orchestration] sendet automatisch Journey-Leistungsdaten an [!UICONTROL Adobe Experience Platform], damit sie zu Analysezwecken mit anderen Daten kombiniert werden können.
-Im folgenden Video erfahren Sie, was [!UICONTROL Journey-Schrittereignisse] sind und welche [!UICONTROL Datenschritte] automatisch für [!UICONTROL Experience Platform] erstellt werden.
+Im folgenden Video wird erläutert, was [!UICONTROL Journey-Schrittereignisse] und welche [!UICONTROL Datenschritte] automatisch erstellt am [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de):
 * [Übersicht über die Freigabe von Journey-Schritten](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en)

@@ -1,7 +1,7 @@
 ---
 title: Streaming-Ereignisse für Adobe Journey Orchestration konfigurieren
 description: '"Erfahren Sie, wie Sie XDM-Schemas und -Datensätze für Journey Orchestration-Ereignisse konfigurieren, ein Ereignis in Journey Orchestration definieren und Quellsysteme für Streaming-Ereignisse konfigurieren."'
-feature: Data Sources, Ereignisse, Schemas
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 89%
+source-wordcount: '266'
+ht-degree: 90%
 
 ---
 
@@ -34,8 +34,7 @@ ht-degree: 89%
 >* [Erstellen von XDM-Schemata für Erlebnisereignisse](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [Streaming-Datenaufnahme](https://docs.adobe.com/content/help/de-DE/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
->
-Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
+>Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
 >
 >* [Adobe Experience Platform Mobile SDK – Launch](https://docs.adobe.com/content/help/de-DE/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 >* [Adobe Experience Platform Location Service](https://docs.adobe.com/content/help/de-DE/places/using/home.html)
@@ -51,7 +50,7 @@ Im folgenden Video werden diese Themen erläutert:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
    * [Informationen zu Ereignissen](https://docs.adobe.com/content/help/de-DE/journeys/using/events-journeys/about-events.html)

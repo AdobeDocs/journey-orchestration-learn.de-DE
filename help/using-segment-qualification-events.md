@@ -30,7 +30,7 @@ In diesem Video erhalten Sie eine kurze Einführung in die Konfiguration von Seg
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 Dokumentation:
 

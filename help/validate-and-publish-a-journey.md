@@ -28,7 +28,7 @@ Im folgenden Video werden diese Themen erläutert:
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de):
    * [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
