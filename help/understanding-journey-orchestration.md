@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 100%
+source-wordcount: '339'
+ht-degree: 89%
 
 ---
 
@@ -39,7 +39,7 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 1. [Konfigurieren von Streaming-Ereignissen](/help/configuring-journey-orchestration/configure-streaming-events.md) – Diese Konfiguration ist obligatorisch, da [!UICONTROL Journey Orchestration] auf Ereignisse lauscht.
 1. [Konfigurieren von Datenquellen](/help/configuring-journey-orchestration/configure-data-sources.md) – Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten aus einer Ereignis-Payload nutzen.
-1. [Konfigurieren von benutzerdefinierten Aktionen](/help/configuring-journey-orchestration/configure-actions.md) – Erforderlich, wenn Sie einen Dienst eines Drittanbieters verwenden möchten, der über eine [!DNL REST API] mit JSON-formatierter Payload aufgerufen werden kann.
+1. [Benutzerdefinierte Aktionen konfigurieren](/help/configuring-journey-orchestration/configure-actions.md): Erforderlich, wenn Sie einen Dienst eines Drittanbieters verwenden möchten, der über einen [!DNL REST API] mit einer JSON-formatierten Payload
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de)
 * [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
 * [So erhalten Sie Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=de)
+* [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)

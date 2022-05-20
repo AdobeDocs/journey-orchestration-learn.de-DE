@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# Erstellen einer Journey
 
-Im folgenden Video werden diese Themen erläutert:
+# Eine Journey mit Adobe Journey Orchestration erstellen
 
-* Eine neue Journey erstellen und mit einem Ereignis beginnen
-* [!UICONTROL Orchestrierungs]-Steuerelemente zur Steuerung von Fluss und zeitlichem Verlauf einer Journey nutzen
-* Mit Aktionen an verschiedenen Punkten in der Journey für Interaktion sorgen
+Erfahren Sie, wie Sie eine Journey erstellen, mit einem Ereignis beginnen, Orchestrierungssteuerelemente verwenden, um den Fluss und die zeitliche Steuerung einer Journey zu steuern, und Aktionen verwenden, um an Punkten im Journey zu interagieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## Weitere Ressourcen
-
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
-   * [Erstellen einer Journey](https://docs.adobe.com/content/help/de-DE/journeys/using/building-journeys/about-journey-building/journey.html)

@@ -10,26 +10,18 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 72%
+source-wordcount: '63'
+ht-degree: 38%
 
 ---
 
 # Eine Journey validieren und veröffentlichen
 
-Sie können Ihre Journey vor der Veröffentlichung mit Testprofilen testen. Durch das Testen der Journey können Sie analysieren, wie Einzelpersonen durch die Journey fließen, und vor der Veröffentlichung eine Fehlerbehebung durchführen.
-
-Im folgenden Video werden diese Themen erläutert:
-
-* Aktivieren und Verwenden des **[!UICONTROL Testmodus]**, um eine Journey zu validieren
-* Veröffentlichen einer Journey und Verwalten ihres Status
+Erfahren Sie, wie Sie Ihre Journey vor der Veröffentlichung mithilfe von Testprofilen testen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
-## Weitere Ressourcen
-
-* [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de):
-   * [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
-   * [Veröffentlichen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=de)
+Weitere Informationen finden Sie in der Produktdokumentation zu [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
+und [Journey veröffentlichen](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=de)

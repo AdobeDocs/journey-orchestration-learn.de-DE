@@ -10,24 +10,17 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 87%
+source-wordcount: '63'
+ht-degree: 14%
 
 ---
 
 # [!UICONTROL Benutzerdefinierte Aktionen] konfigurieren
 
-[!UICONTROL Aktionen] sind die Kontaktpunkte in [!UICONTROL Journey Orchestration], über die Sie Kontakten personalisierte Echtzeiterlebnisse bereitstellen. Dies können herkömmliche Messaging-Kanäle wie Push-Benachrichtigungen, E-Mail oder SMS oder andere digitale Kommunikationsmittel sein, die Sie in Ihrem Unternehmen verwenden. 
-
-Jeder Dienst eines beliebigen Anbieters, der über eine REST-API mit einer JSON-formatierten Payload aufgerufen werden kann, kann als [!UICONTROL Aktion] in [!UICONTROL Journey Orchestration] konfiguriert werden.
-
-Im folgenden Video wird erläutert, wie eine [!UICONTROL Aktion] für [!UICONTROL Journey Orchestration] konfiguriert und in einer Journey verwendet werden kann.
+Erfahren Sie, wie Sie eine Aktion für die Journey Orchestration konfigurieren und in einer Journey verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
-## Weitere Ressourcen
-
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
-   * [Informationen zu Aktionen](https://docs.adobe.com/content/help/de-DE/journeys/using/action-journeys/action.html)
+Weitere Informationen finden Sie unter [Aktionen](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action.html?lang=en) Abschnitt der Produktdokumentation

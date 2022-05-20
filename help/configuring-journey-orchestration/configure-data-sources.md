@@ -10,29 +10,17 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 85%
+source-wordcount: '74'
+ht-degree: 13%
 
 ---
 
 # Konfigurieren von Datenquellen
 
-Mit [!UICONTROL Journey Orchestration] können Sie eine Verbindung zur Adobe Experience Platform oder anderen Systemen von Drittanbietern herstellen, um zusätzliche Informationen abzurufen, die in einer Journey für Folgendes verwendet werden können:
-
-* Definition von Bedingungen
-* Parameter und Personalisierungsdaten in Aktionen
-* [!UICONTROL Benutzerdefinierte Timer]-Definition
-* Benutzerdefinierte Zeitzonendefinition
-
-Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten aus einer Ereignis-Payload nutzen.
-
-Im folgenden Tutorial wird beschrieben, wie Sie eine Experience Platform-Datenquelle und eine externe Datenquelle konfigurieren sowie Daten suchen und in einer Journey verwenden.
+Erfahren Sie, wie Sie Experience Platform-Datenquellen konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
-## Weitere Ressourcen
-
-* [Journey Orchestration Help Center](https://docs.adobe.com/content/help/de-DE/journeys/using/journey-orchestration-home.html):
-   * [Informationen zu Datenquellen](https://docs.adobe.com/content/help/de-DE/journeys/using/data-source-journeys/about-data-sources.html)
+Weitere Informationen finden Sie unter [Über Datenquellen](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) in der Produktdokumentation.
