@@ -1,6 +1,6 @@
 ---
 title: Eine Journey mit Adobe Journey Orchestration erstellen
-description: „Erfahren Sie, wie Sie eine neue Journey erstellen, mit einem Ereignis beginnen, Orchestrierung zur Steuerung des Flusses und des zeitlichen Verlaufs einer Journey einsetzen sowie Aktionen nutzen, um an verschiedenen Punkten der Journey für Interaktion zu sorgen“.
+description: Erfahren Sie, wie Sie eine neue Journey erstellen, mit einem Ereignis beginnen, den Fluss und Timing einer Journey mittels entsprechender Steuerungen orchestrieren, und anhand von Aktionen an bestimmten Punkten der Journey Kundeninteraktionen anregen.
 feature: Journeys
 topics: Create a journey
 kt: 2789
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%

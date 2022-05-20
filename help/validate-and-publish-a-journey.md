@@ -1,6 +1,6 @@
 ---
 title: Eine Journey validieren und veröffentlichen
-description: '"Erfahren Sie, wie Sie Ihre Journey vor der Veröffentlichung mithilfe von Testprofilen testen können. "'
+description: Erfahren Sie, wie Sie Ihre Journey vor der Veröffentlichung mithilfe von Testprofilen testen können.
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 72%

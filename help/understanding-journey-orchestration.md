@@ -1,6 +1,6 @@
 ---
 title: Informationen zu Journey Orchestration
-description: „Machen Sie sich mit dem Konzept, den unterstützten Anwendungsfällen und der Funktionsweise von Journey Orchestration vertraut“.
+description: Machen Sie sich mit dem Konzept, den unterstützten Anwendungsfällen und der Funktionsweise von Journey Orchestration vertraut.
 feature: Overview
 topics: Introduction
 kt: 2773
@@ -9,19 +9,19 @@ audience: user, developer
 doc-type: video
 activity: understand
 role: User, Admin
-source-git-commit: f46e7dd5cbd60a16b5ab8a58a5a548735a3708fc
+exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
 
 ---
 
-
 # Informationen zu [!UICONTROL Journey Orchestration]
 
-## Einführung in [!UICONTROL Journey Orchestration]
-
 Mit [!UICONTROL Journey Orchestration] können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
+
+## Einführung in [!UICONTROL Journey Orchestration]
 
 [!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Er bietet ein intelligentes und offenes Ökosystem, um alle relevanten Live-Daten über skalierbare, auf Ereignissen basierende Interaktionen kanalübergreifend zu aktivieren – vom Marketing über den Betrieb bis hin zum Service. [!UICONTROL Journey Orchestration] kann sämtliche Daten aus Adobe Experience Platform und beliebigen externen Versandsystemen nutzen, um ansprechende Erlebnisse zu erzeugen und bereitzustellen.
 
@@ -58,4 +58,3 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 * [So erhalten Sie Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
 * [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=de)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
-
