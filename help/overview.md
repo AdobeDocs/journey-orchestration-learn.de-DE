@@ -5,7 +5,7 @@ products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '208'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 ## Neue Funktionen
 
 * **[Aktion zum Aktualisieren von Profilen](/help/building-a-journey/update-profile-action.md)**
-* **[Zu einer anderen Journey springen](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[Wechseln zu einer anderen Journey](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen.*
 
@@ -41,11 +41,11 @@ ht-degree: 100%
   </td>
   <td>
     <a href="./building-a-journey/creating-a-journey.md">
-        <img alt="Eine Journey erstellen (Video)" src="./assets/journey34.png"/>
+        <img alt="Erstellen einer Journey (Video)" src="./assets/journey34.png"/>
     </a>
     <div>
       <a href="./building-a-journey/creating-a-journey.md">
-    <strong>Eine Journey erstellen (Video)</strong>
+    <strong>Erstellen einer Journey (Video)</strong>
     </a>
     </div>
     <p>
@@ -54,11 +54,11 @@ ht-degree: 100%
   </td>
   <td>
    <a href="./analyze-a-journey-via-reporting-tools.md">
-      <img alt="Eine Journey mit Reporting-Tools analysieren" src="./assets/dynamic_report_journey_8.png" />
+      <img alt="Analysieren einer Journey mit Reporting-Tools" src="./assets/dynamic_report_journey_8.png" />
     </a>
     <div>
       <a href="./analyze-a-journey-via-reporting-tools.md">
-    <strong>Eine Journey mit Reporting-Tools analysieren</strong>
+    <strong>Analysieren einer Journey mit Reporting-Tools</strong>
     </a>
     </div>
     <p>
