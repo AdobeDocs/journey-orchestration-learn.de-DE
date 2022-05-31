@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '339'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 1. [Konfigurieren von Streaming-Ereignissen](/help/configuring-journey-orchestration/configure-streaming-events.md) – Diese Konfiguration ist obligatorisch, da [!UICONTROL Journey Orchestration] auf Ereignisse lauscht.
 1. [Konfigurieren von Datenquellen](/help/configuring-journey-orchestration/configure-data-sources.md) – Diese Konfiguration ist nicht erforderlich, wenn Ihre Journeys nur lokale Daten aus einer Ereignis-Payload nutzen.
-1. [Benutzerdefinierte Aktionen konfigurieren](/help/configuring-journey-orchestration/configure-actions.md): Erforderlich, wenn Sie einen Dienst eines Drittanbieters verwenden möchten, der über einen [!DNL REST API] mit einer JSON-formatierten Payload
+1. [Konfigurieren von benutzerdefinierten Aktionen](/help/configuring-journey-orchestration/configure-actions.md) – Erforderlich, wenn Sie den Service eines Drittanbieters verwenden möchten, der über eine [!DNL REST API] mit JSON-formatierter Payload aufgerufen werden kann.
 
 >[!NOTE]
 >
@@ -47,14 +47,14 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 ## So erstellen, veröffentlichen und analysieren Sie eine Journey
 
-1. [Eine Journey erstellen](/help/building-a-journey/creating-a-journey.md)
-1. [Eine Journey validieren und veröffentlichen](/help/validate-and-publish-a-journey.md)
-1. [Eine Journey mit Reporting-Tools analysieren](/help/analyze-a-journey-via-reporting-tools.md)
+1. [Erstellen einer Journey](/help/building-a-journey/creating-a-journey.md)
+1. [Validieren und Veröffentlichen einer Journey](/help/validate-and-publish-a-journey.md)
+1. [Analysieren einer Journey mit Reporting-Tools](/help/analyze-a-journey-via-reporting-tools.md)
 
 ## Weitere Ressourcen
 
 * [Journey Orchestration Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=de)
 * [Adobe Experience Platform-Tutorials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=de)
-* [So erhalten Sie Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+* [Hilfe zu Journey Orchestration](/help/understanding-journey-orchestration.md)
+* [Adobe Experience Platform Mobile SDK – Launch](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=de)
 * [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
