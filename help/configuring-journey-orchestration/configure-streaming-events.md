@@ -1,6 +1,6 @@
 ---
 title: Streaming-Ereignisse für Adobe Journey Orchestration konfigurieren
-description: Erfahren Sie, wie Sie XDM-Schemas und -Datensätze für Journey Orchestration-Ereignisse konfigurieren, ein Ereignis in Journey Orchestration definieren und Quellsysteme für Streaming-Ereignisse konfigurieren.
+description: Lernen Sie, wie Sie XDM-Schemata und Datensätze für Journey Orchestration-Ereignisse konfigurieren, ein Ereignis in Journey Orchestration definieren und Quellsysteme für das Streaming von Ereignissen konfigurieren.
 feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
@@ -12,8 +12,8 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 59%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 59%
 >
 >Um die im Video verwendeten Beispiele zu verstehen, sollten Sie sich auch mit den folgenden Adobe Experience Platform-Services vertraut machen:
 >
->* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=de)
 >* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
 
 
