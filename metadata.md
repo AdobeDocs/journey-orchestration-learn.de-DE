@@ -5,34 +5,33 @@ solution: Journey Orchestration
 feature-set: Journey Orchestration
 type: Tutorial
 mini-toc-levels: 3
-git-repo: https://git.corp.adobe.com/AdobeDocs/journey-orchestration-learn.de-DE
+git-repo: https://github.com/AdobeDocs/journey-orchestration-learn.de-DE
 index: false
-translation-type: ht
 source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
-workflow-type: ht
-source-wordcount: '131'
+workflow-type: tm+mt
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
 
 
-# Metadaten für den internen Gebrauch
+# Metadaten für die interne Verwendung
 
-Die Datei „metadata.md“ enthält Metadaten auf der Repository-Ebene, die über die „TOC.md“-Dateien des Benutzerhandbuchs im Repository übergeben werden. Wenn Sie den „metadata.md“-Inhalt für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen „TOC.md“-Datei.
+Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Dateien des Benutzerhandbuchs im Repo weitergegeben werden. Wenn Sie den Inhalt von metadata.md für ein Benutzerhandbuch ändern möchten, tun Sie dies in einer beliebigen TOC.md-Datei.
 
-| Metadaten | Funktion |
+| metadata | was es macht |
 |--- |--- |
-| solution-title | Wird in der Artikelüberschrift als Link verwendet |
-| solution-hub-url | Öffnet die Helpx-Hub-Seite |
-| solution-icon | Zeigt das Lösungssymbol neben dem Lösungstitel an. Noch nicht implementiert |
-| getting-started-url | Link zur Hilfeseite für erste Schritte |
-| tutorials-url | Link zu Video-Tutorials – entweder Helpx-Tutorials oder KT-Tutorials |
-| mini-toc-levels | Legt die Anzahl der Überschriftenebenen fest, die in der rechten Leiste angezeigt werden. Standardwert ist 2 |
-| git-repo | Gibt den Speicherort des übergeordneten Repositorys zur internen Verwendung an |
+| solution-title | Wird in der Artikelkopfzeile als Link verwendet |
+| solution-hub-url | Öffnet die helpx-Hub-Seite |
+| solution-icon | Zeigt Lösungssymbol neben dem Titel der Lösung an. Noch nicht implementiert |
+| getting-started-url | Link zur Startseite Erste Schritte von helpx |
+| tutorials-url | Link zu Video-Übungen – entweder Helpx-Übungen oder KT-Übungen |
+| mini-toc-levels | Legt fest, wie viele Überschriftenebenen in der rechten Leiste angezeigt werden. Standardwert ist „2“ |
+| git-repo | Gibt den Speicherort der Master-Repo für die interne Verwendung an. |
 
-In Datei „TOC.md“
+In der Datei TOC.md
 
-| Metadaten | Funktion |
+| Metadaten | was es macht |
 |--- |--- |
-| user-guide-title | Wird in der Artikelüberschrift als Link verwendet |
-| user-guide-url | Öffnet die Helpx-Hub-Seite |
+| user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
+| user-guide-url | Öffnet die helpx-Hub-Seite |
