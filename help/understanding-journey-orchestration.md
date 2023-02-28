@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Informationen zu [!UICONTROL Journey Orchestration]
 
-Mit [!UICONTROL Journey Orchestration] können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
+Mit [!UICONTROL Journey Orchestration] können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextuelle, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 
 ## Einführung in [!UICONTROL Journey Orchestration]
 
