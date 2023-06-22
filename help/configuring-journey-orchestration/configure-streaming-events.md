@@ -3,14 +3,14 @@ title: Streaming-Ereignisse für Adobe Journey Orchestration konfigurieren
 description: Lernen Sie, wie Sie XDM-Schemata und Datensätze für Journey Orchestration-Ereignisse konfigurieren, ein Ereignis in Journey Orchestration definieren und Quellsysteme für das Streaming von Ereignissen konfigurieren.
 feature: Data Sources, Events, Schemas
 topics: Events
-kt: 3731
+jira: KT-3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: cba80e227001486dd97becc826b0a45ab5fc3c53
+source-git-commit: 2735cd3a855e6e8a21381fb77683ed65dab6b1e5
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 72%
@@ -38,7 +38,6 @@ ht-degree: 72%
 >
 >* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=de)
 >* [Adobe Experience Platform Location Service](https://experienceleague.adobe.com/docs/places/using/home.html?lang=de)
-
 
 ## Konfigurieren von [!UICONTROL Streaming-Ereignissen]
 
