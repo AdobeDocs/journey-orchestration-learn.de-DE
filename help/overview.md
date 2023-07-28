@@ -1,10 +1,11 @@
 ---
 title: Journey Orchestration-Tutorials – Übersicht
-description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
+description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextuelle, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 98%
@@ -13,7 +14,7 @@ ht-degree: 98%
 
 # Journey Orchestration-Tutorials
 
-[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextbezogene, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
+[!UICONTROL Journey Orchestration] ist ein in Adobe Experience Platform integrierter Anwendungsdienst. Damit können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextuelle, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 
 <div id="whats-new-section">
 
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[Aktion zum Aktualisieren von Profilen](/help/building-a-journey/update-profile-action.md)**
 * **[Wechseln zu einer anderen Journey](/help/building-a-journey/jumping-to-another-journey.md)**
-   *Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen.*
+  *Erfahren Sie, wie Sie Einzelanwender von einer Journey zur nächsten bewegen.*
 
 </div>
 
