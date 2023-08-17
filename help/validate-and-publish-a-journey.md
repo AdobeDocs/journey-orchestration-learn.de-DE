@@ -23,5 +23,5 @@ Erfahren Sie, wie Sie Ihre Journey vor der Veröffentlichung mithilfe von Testpr
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-Weitere Informationen finden Sie in der Produktdokumentation zu [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
+Weitere Informationen finden Sie in der Produktdokumentation [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
 und [Journey veröffentlichen](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=de)

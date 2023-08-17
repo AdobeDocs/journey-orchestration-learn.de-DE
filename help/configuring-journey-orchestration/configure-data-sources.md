@@ -1,6 +1,6 @@
 ---
 title: Datenquellen für Adobe Journey Orchestration konfigurieren
-description: Erfahren Sie, wie Sie die Experience Platform-Datenquelle konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden.
+description: Erfahren Sie, wie Sie Experience Platform Data Source konfigurieren, eine externe Datenquelle konfigurieren und Daten in einer Journey suchen und verwenden.
 feature: Data Sources
 topics: Data Sources
 jira: KT-2774
