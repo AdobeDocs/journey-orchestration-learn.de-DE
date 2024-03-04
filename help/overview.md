@@ -1,14 +1,14 @@
 ---
-title: Journey Orchestration-Tutorials – Übersicht
+title: Journey Orchestration-Tutorials
 description: Mit Journey Orchestration können Sie Anwendungsfälle für die Echtzeit-Orchestrierung erstellen, indem Sie kontextuelle, in Ereignissen oder Datenquellen gespeicherte Daten nutzen.
 products: Journey orchestration
 feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: fd7c346c9159ec2646a0887781574a32bba08a7a
+source-git-commit: b15ea4984bb1f709586ad1d744e14de20fcf8edb
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 98%
+source-wordcount: '175'
+ht-degree: 100%
 
 ---
 
