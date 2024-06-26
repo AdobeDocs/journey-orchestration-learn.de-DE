@@ -11,9 +11,9 @@ activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
-workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 99%
+workflow-type: ht
+source-wordcount: '296'
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Die wichtigsten Schritte bei der Vorbereitung auf das Erstellen von Journeys sin
 
 >[!NOTE]
 >
->Diese Konfigurationsschritte erfordern technische Kenntnisse. Sie müssen mit dem [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=de) und dem [Erstellen von XDM-Erlebnisereignis-Schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=de) vertraut sein.
+>Diese Konfigurationsschritte erfordern technische Kenntnisse. Sie müssen mit dem [Experience Data Model (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=de) und dem [Erstellen von XDM-Erlebnisereignis-Schemata](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=de) vertraut sein.
 
 ## So erstellen, veröffentlichen und analysieren Sie eine Journey
 
