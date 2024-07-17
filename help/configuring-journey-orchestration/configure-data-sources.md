@@ -12,8 +12,8 @@ role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 13%
+source-wordcount: '68'
+ht-degree: 17%
 
 ---
 
@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie Experience Platform-Datenquellen konfigurieren, eine exter
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?learn=on){transcript=true}
 
-Weitere Informationen finden Sie unter [Über Datenquellen](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) in der Produktdokumentation.
+Weitere Informationen finden Sie im Abschnitt [Über Datenquellen](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) in der Produktdokumentation.

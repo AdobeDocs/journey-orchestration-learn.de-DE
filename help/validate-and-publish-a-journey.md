@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 36%
+source-wordcount: '53'
+ht-degree: 26%
 
 ---
 
@@ -23,5 +23,5 @@ Erfahren Sie, wie Sie Ihre Journey vor der Veröffentlichung mithilfe von Testpr
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?learn=on){transcript=true}
 
-Weitere Informationen finden Sie in der Produktdokumentation [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de)
-und [Journey veröffentlichen](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=de)
+Weitere Informationen zum [Testen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html?lang=de) finden Sie in der Produktdokumentation
+und [Veröffentlichen der Journey](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html?lang=de)
