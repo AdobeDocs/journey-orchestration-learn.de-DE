@@ -9,7 +9,7 @@ git-repo: https://github.com/AdobeDocs/journey-orchestration-learn.de-DE
 index: false
 source-git-commit: d9ab2c502519c6bf136056d92eaf6e7e6432f1f5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 100%
 
 ---
@@ -31,7 +31,7 @@ Die Datei metadata.md enthält Metadaten auf Repo-Ebene, die an die TOC.md-Datei
 
 In der Datei TOC.md
 
-| Metadaten | was es macht |
+| metadata | was es macht |
 |--- |--- |
 | user-guide-title | Wird in der Artikelkopfzeile als Link verwendet |
 | user-guide-url | Öffnet die helpx-Hub-Seite |

@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Segmentqualifikationsereignissen
-description: Erfahren Sie, wo Sie Segmente konfigurieren und wie Sie ein Segmentqualifikationsereignis in einer Journey konfigurieren.
+description: Erfahren Sie, wo Sie Segmente konfigurieren und wie Sie ein Segmentqualifikationsereignis auf einer Journey konfigurieren.
 feature: Segments, Events
 topics: Events
 jira: KT-5485
@@ -12,14 +12,14 @@ role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 53%
+source-wordcount: '126'
+ht-degree: 52%
 
 ---
 
 # Verwenden von Segmentqualifikationsereignissen
 
-Mit einem Segmentqualifikationsereignis kann Ihre Journey die Ein- und Austritte von Profilen in Adobe Experience Platform-Segmenten überwachen. Dieser Ereignistyp wird verwendet, um Einzelpersonen dazu zu bringen, in eine Journey einzutreten oder fortzufahren.
+Mit einem Segmentqualifikationsereignis kann Ihr Journey die Ein- und Austritte von Profilen in Adobe Experience Platform-Segmenten überwachen. Dieser Ereignistyp wird verwendet, um Personen dazu zu bringen, in eine Journey einzutreten oder in einer anderen vorzugehen.
 
 Beispiele für Anwendungsfälle sind:
 

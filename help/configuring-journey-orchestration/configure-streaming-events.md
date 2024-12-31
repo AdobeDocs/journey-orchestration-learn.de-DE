@@ -12,7 +12,7 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 74%
 
 ---
@@ -21,14 +21,14 @@ ht-degree: 74%
 
 [!UICONTROL Journey Orchestration ] überwacht Ereignisse und organisiert die besten nächsten Aktionen innerhalb der Customer Journey basierend auf diesen Ereignissen. Ein Ereignis kann sich auf Folgendes beziehen:
 
-* die direkten Aktionen einer Person (z. B. der Kauf eines Produkts, der Besuch eines Geschäfts oder der Abbruch eines Online-Warenkorbs) oder
-* Etwas, das mit der Person in Verbindung steht (z. B. erreichten sie 10.000 Treuepunkte)
+* direkte Aktionen einer Person (z. B. Kauf eines Produkts, Besuch eines Geschäfts oder Aufgabe eines Online-Warenkorbs) oder
+* Etwas, das mit der Person in Verbindung steht (sie erreichte beispielsweise 10.000 Treuepunkte)
 
 [!UICONTROL Journey Orchestration]-Ereignisses sind [!UICONTROL XDM-Erlebnisereignisse], die über die [!UICONTROL Streaming-Aufnahme] an Adobe Experience Platform gesendet werden.
 
 >[!NOTE]
 >
->Sie müssen mit folgenden Themen vertraut sein:
+>Sie müssen vertraut sein mit:
 >
 >* [Experience-Datenmodell (XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=de)
 >* [Erstellen von XDM-Schemata für Erlebnisereignisse](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=de)
@@ -49,4 +49,4 @@ Im folgenden Video werden diese Themen erläutert:
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
-Weitere Informationen finden Sie im Abschnitt [Über Ereignisse](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) der Produktdokumentation.
+Weitere Informationen finden Sie [ Abschnitt ](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en)Über Ereignisse“ der Produktdokumentation.
